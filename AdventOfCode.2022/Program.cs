@@ -7,3 +7,5 @@ Console.WriteLine("Day02 - Part2: " + Day2.PartTwo());
 
 Console.WriteLine("Day03 - Part1: " + Day3.PartOne());
 Console.WriteLine("Day03 - Part2: " + Day3.PartTwo());
+
+Console.WriteLine("Day04 - Part1: " + Day4.PartOne());
