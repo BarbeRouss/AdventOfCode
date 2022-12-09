@@ -1,8 +1,8 @@
-﻿public static class Day3
+﻿public static class Day03
 {
     public static string PartOne()
     {
-        var input = File.ReadLines("input_day3");
+        var input = File.ReadLines("day03_input");
         var priorities = 0;
 
         foreach (var line in input)
@@ -19,7 +19,7 @@
 
     public static string PartTwo()
     {
-        var input = File.ReadLines("input_day3");
+        var input = File.ReadLines("day03_input");
         var priorities = 0;
 
         foreach (var line in input.Chunk(3))

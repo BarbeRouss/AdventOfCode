@@ -1,8 +1,8 @@
-public static class Day1
+public static class Day01
 {
     public static string PartOne()
     {
-        var input = File.ReadLines("input_day1");
+        var input = File.ReadLines("day01_input");
 
         List<Elf> elfs = new List<Elf>();
         Elf currentElf = new Elf();
@@ -27,7 +27,7 @@ public static class Day1
     
     public static string PartTwo()
     {
-        var input = File.ReadLines("input_day1");
+        var input = File.ReadLines("day01_input");
 
         List<Elf> elfs = new List<Elf>();
         Elf currentElf = new Elf();

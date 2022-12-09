@@ -1,8 +1,8 @@
-﻿public static class Day4
+﻿public static class Day04
 {
     public static string PartOne()
     {
-        var input = File.ReadLines("input_day4");
+        var input = File.ReadLines("day04_input");
         int fullyContainsCount = 0;
 
         foreach (var line in input)
@@ -22,7 +22,7 @@
 
     public static string PartTwo()
     {
-        var input = File.ReadLines("input_day4");
+        var input = File.ReadLines("day04_input");
         int count = 0;
 
         foreach (var line in input)

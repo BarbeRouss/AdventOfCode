@@ -1,8 +1,8 @@
-public static class Day2
+public static class Day02
 {
     public static string PartOne()
     {
-        var input = File.ReadLines("input_day2");
+        var input = File.ReadLines("day02_input");
 
         int score = 0;
 
@@ -18,7 +18,7 @@ public static class Day2
     
     public static string PartTwo()
     {
-        var input = File.ReadLines("input_day2");
+        var input = File.ReadLines("day02_input");
 
         int score = 0;
 

@@ -1,4 +1,4 @@
-﻿public static class Day5
+﻿public static class Day05
 {
     public static string PartOne()
     {
