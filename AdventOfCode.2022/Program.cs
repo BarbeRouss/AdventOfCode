@@ -19,3 +19,6 @@ Console.WriteLine("Day06 - Part2: " + Day06.PartTwo());
 
 Console.WriteLine("Day07 - Part1: " + Day07.PartOne());
 Console.WriteLine("Day07 - Part2: " + Day07.PartTwo());
+
+Console.WriteLine("Day08 - Part1: " + Day08.PartOne());
+Console.WriteLine("Day08 - Part2: " + Day08.PartTwo());
